@@ -39,4 +39,3 @@ A simple user registration form built using React for Week 6 Lab Assessment. It 
 
 ## 📬 Author
 Jim Carlo Bagoncia
-# 🧾 User Registration Form - React
